@@ -20,4 +20,4 @@ FrontEnd de um Ecommerce feito em ReactJS e Redux
 ![](https://i.imgur.com/BwVXm7u.png)
 
 
-Este projeto foi desenvolvido ao longo do bootcamp da [https://rocketseat.com.br](RocketSeat).
+Este projeto foi desenvolvido ao longo do bootcamp da (RocketSeat)[https://rocketseat.com.br].
