@@ -12,4 +12,4 @@ FrontEnd de um Ecommerce feito em ReactJS e Redux
 3. Execute a aplicação em modo de desenvolvimento, digite no bash ```yarn start```. 
 
 
-Este projeto foi desenvolvido ao longo do curso da [https://rocketseat.com.br](RocketSeat).
+Este projeto foi desenvolvido ao longo do bootcamp da [https://rocketseat.com.br](RocketSeat).
