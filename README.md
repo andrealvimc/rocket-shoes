@@ -1,4 +1,4 @@
-# RocketShoes
+# RocketShoes - Alpha 0.1
 FrontEnd de um Ecommerce feito em ReactJS e Redux
 
 ## BackEnd
