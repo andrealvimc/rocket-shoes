@@ -1,9 +1,9 @@
 # rocketshoes.web
 FrontEnd de um Ecommerce feito em ReactJS e Redux
 
-## Como foi simulado o BackEnd?
+## BackEnd
 
-```json-server``` para fazer a simulação de uma API RESTFULL. com a opção de listagem de produtos (preço, imagem, titulo), estoque.
+```json-server``` para fazer a simulação de uma API RESTFULL. com a opção de listagem de produtos.
 
 ## Inicializando o projeto.
 
