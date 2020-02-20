@@ -8,7 +8,7 @@ FrontEnd de um Ecommerce feito em ReactJS e Redux
 ## Inicializando o projeto.
 
 1. Após clonar este repositorio, digite o comando ```yarn``` para a instalação dos pacotes utilizados.
-2. Execute o comando para iniciar o json-server, digite no bash ```json-server server.json -p 3333```. Utilizamos a porta *3333*.
+2. Execute o comando para iniciar o json-server, digite no bash ```json-server server.json -p 3333```.
 3. Execute a aplicação em modo de desenvolvimento, digite no bash ```yarn start```. 
 
 
